@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sagar581
+- 👋 Hi, I’m @sagar Chaudhari.
 - 👀 I’m interested in Competitive Coding.
 - 🌱 I’m currently learning Full stack development.
 - 💞️ I’m looking to collaborate on development of softwere. 
