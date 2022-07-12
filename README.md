@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagar Chaudhari.
-- 👀 I’m interested in Full stack development.
+- 👀 I’m interested in Back-end Web development.
 - 🌱 I’m currently learning Competitive Coding.
 - 💞️ I’m looking to collaborate on development of softwere. 
 - 📫 Email: sbchaudhari581@gmail.com.
