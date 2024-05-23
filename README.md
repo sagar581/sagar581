@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sagar Chaudhari.
-- 👀 I’m interested in Back-end Web development.
-- 🌱 I’m currently learning Competitive Coding.
-- 💞️ I’m looking to collaborate on development of softwere. 
+- 👀 I’m interested in Android App development or Back-end Web development.
+- 🌱 I’m currently Working on Android app development and also learning back-end web development.
 - 📫 Email: sbchaudhari581@gmail.com.
 
 <!---
