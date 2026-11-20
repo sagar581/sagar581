@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagar Chaudhari.
-- 👀 I’m interested in Android App development or Back-end Web development.
-- 🌱 I’m currently Working on Android app development and also learning back-end web development.
+- 👀 I’m interested in Android App development or Back-end development.
+- 🌱 I’m currently Working on Android app development and also learning back-end development.
 - 📫 Email: sbchaudhari581@gmail.com.
 
 <!---
